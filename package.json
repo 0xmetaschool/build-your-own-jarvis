@@ -1,0 +1,29 @@
+{
+  "name": "openai-speech-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "file-loader": "^6.2.0",
+    "latest": "^0.2.0",
+    "lottie-react": "^2.4.0",
+    "lucide-react": "^0.445.0",
+    "next": "14.2.13",
+    "nodejs": "^0.0.0",
+    "openai": "^4.63.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "url-loader": "^4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.13",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
